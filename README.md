@@ -1,7 +1,7 @@
-# audiogram
+# Reeple
 
 ### About The Project
-Audiogram is a video generator written in kotlin and built with the spring framework. It generates waveform visualizations for any audio source. Renders are customizable wih templates and additional resources ( images & videos)
+Reeple is a video generator written in kotlin and built with the spring framework. It generates waveform visualizations for any audio source. Renders are customizable wih templates and additional resources ( images & videos)
 
 ### Built With
 
