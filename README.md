@@ -36,11 +36,3 @@ Audiogram is a video generator written in kotlin and built with the spring frame
 - Render output example
 - ![Editing the Style](/waveform.gif?raw=true "Title")
 
-
-
-### Licence
---
-
-### Contact
-##### Email
-ky.official.ng@gmail.com
